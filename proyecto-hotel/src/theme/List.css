@@ -1,0 +1,63 @@
+.selectContact{
+    margin-top: -5px;
+    color: white !important;
+}
+
+.selectContact .css-14el2xx-placeholder{
+    color: white !important;
+    text-transform: lowercase !important;
+}
+
+.selectContact .css-qc6sy-singleValue{
+    text-transform: lowercase;
+    color: white !important;
+}
+
+.selectContact .css-26l3qy-menu{
+    border: 1px solid white !important;
+    text-transform: lowercase;
+    background-color: rgb(54, 54, 54) !important;
+    color: white;
+}
+
+.selectContact .css-b62m3t-container{
+    border: none !important;
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.selectContact .css-1s2u09g-control{
+    background-color: transparent !important;
+    color: white !important;
+    border: none !important;
+}
+.selectContact .css-1s2u09g-control:hover{
+    background-color: transparent !important;
+    border: none !important;
+    color: white !important;
+}
+
+
+.selectContact .css-319lph-ValueContainer{
+    border: none !important;
+    color: white !important;
+}
+
+.selectContact .css-1pahdxg-control:hover{
+    border: none !important;
+    background-color: transparent !important;
+    color: white !important;
+    border-color: transparent !important;
+}
+
+.selectContact .css-tlfecz-indicatorContainer{
+    border: none !important;
+    display: block !important;
+}
+.selectContact .css-1hb7zxy-IndicatorsContainer{
+    border: none!important;
+    display: block !important;
+}
+.selectContact .css-1s2u09g-control{
+    border: none !important;
+}

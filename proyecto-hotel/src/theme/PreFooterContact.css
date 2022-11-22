@@ -1,0 +1,17 @@
+.prefooterContact{
+    background-color: rgb(54, 54, 54) !important;
+    height: auto;
+    padding: 20px 80px 20px 80px;
+}
+
+.contactInfo{
+    font-size: 11px;
+    color: white;
+}
+
+.contactInfoTel{
+    font-size: 11px;
+    color: white;
+    display: flex;
+    margin-right: 30px;
+}

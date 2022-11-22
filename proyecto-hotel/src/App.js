@@ -1,19 +1,15 @@
 
-import { isBrowser, isMobile } from 'react-device-detect';
 import './App.css'
-import { ContendorWeb } from './components/contenedorWeb/ContendorWeb';
+import { Rutas } from './components/contenedorWeb/Rutas';
 
 function App() {
 
   return (
     <div className="App">
-      {
-        isBrowser ? 
-          <div>
-            <ContendorWeb />
-          </div> 
-        : <div>hola movil</div>
-      }
+      <div>
+        <Rutas />
+      </div>
+      
     </div>
   );
 }

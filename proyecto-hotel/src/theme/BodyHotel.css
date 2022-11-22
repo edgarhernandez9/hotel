@@ -1,0 +1,47 @@
+.container-body{
+    /* background-color: aqua; */
+    margin-top: 50px;
+    
+}
+
+.imgPromo{
+    width: 135px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.tituloBody{
+    margin-top: 20px;
+    text-align: start;
+    font-size: 40px !important;
+    margin-left: 30px;
+}
+
+.tituloBody-hotel{
+    font-size: 40px !important;
+}
+
+.tituoloBody-subtitle{
+    text-align: start;
+    width: 410px !important;
+    font-size: 22px;
+}
+
+.tituoloBody-paragraps{
+    text-align: start;
+    width: 420px;
+}
+
+.btnPromotions{
+    margin-top: 30px;
+}
+
+.btnPromotions-reserva{
+    border: 1px solid black;
+    width: 250px;
+    float: left;
+    margin-left: 20%;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
